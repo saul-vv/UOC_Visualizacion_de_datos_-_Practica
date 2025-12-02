@@ -10,3 +10,4 @@ Repositorio para la práctica de la asignatura M2.859 Visualización de datos de
 -------------------------------------------------------------------------
 
 Datos brutos obtenidos de https://www.kaggle.com/datasets/mikolajzakrzewski/ifsc-event-results-1991-2024 bajo licencia CC0 1.0 Universal
+Datos de población obtenidos de https://data.worldbank.org/indicator/SP.POP.TOTL bajo licencia CC BY-4.0
